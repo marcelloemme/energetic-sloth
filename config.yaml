@@ -1,6 +1,7 @@
-title: Reflex
-baseURL: /
+---
+title: marcello m
+baseURL: "/"
 params:
   none: ''
 disableKinds:
-  - RSS
+- RSS
