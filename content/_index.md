@@ -21,16 +21,16 @@ sections:
   subtitle: ''
   symbol_display: []
 - template: spotlight
-  title: Duis torquent
+  title: spotlight section
   component: spotlight.html
   type: spotlight
-  content: ''
+  content: text vdisms
   actions:
   - label: label
     url: www.gesu.com
     is_scrolly: false
     is_primary: false
-  subtitle: ''
+  subtitle: _The text displayed below the section title_
 layout: home
 prova_per_home_2: ''
 menu:
