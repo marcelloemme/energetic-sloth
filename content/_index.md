@@ -7,6 +7,10 @@ sections:
   type: intro
   content: ''
   actions:
+  - label: works
+    url: ''
+    is_scrolly: false
+    is_primary: false
   - label: personal
     url: ''
     is_scrolly: false
