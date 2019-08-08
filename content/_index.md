@@ -20,17 +20,12 @@ sections:
   actions: []
   subtitle: ''
   symbol_display: []
-- template: spotlight
-  title: spotlight section
-  component: spotlight.html
-  type: spotlight
-  content: text vdisms
-  actions:
-  - label: label
-    url: www.gesu.com
-    is_scrolly: false
-    is_primary: false
-  subtitle: _The text displayed below the section title_
+- template: mission
+  title: Amet ullamcorper
+  component: mission.html
+  type: mission
+  content: ''
+  actions: []
 layout: home
 prova_per_home_2: ''
 menu:
