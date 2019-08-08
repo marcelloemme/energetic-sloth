@@ -16,6 +16,10 @@ fields:
   - features
   - spotlight
   - mission
+  - prova-3
+  - qwertyuiop
+  - vbnm
+  - prova-oer-home
 - type: text
   name: layout
   label: Layout
