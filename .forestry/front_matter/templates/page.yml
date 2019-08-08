@@ -27,4 +27,5 @@ fields:
   config:
     required: true
 pages:
+- content/rawtext.md
 - content/contact.md
