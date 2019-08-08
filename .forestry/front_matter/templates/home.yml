@@ -16,7 +16,6 @@ fields:
   - features
   - spotlight
   - mission
-  - prova-vediamo
 - type: text
   name: layout
   label: Layout
