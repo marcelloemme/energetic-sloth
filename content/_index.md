@@ -24,6 +24,7 @@ layout: home
 prova_per_home_2: ''
 menu:
   main:
+    name: home
     weight: 1
 
 ---
