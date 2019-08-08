@@ -16,7 +16,7 @@ sections:
   title: Ipsum malesuada
   component: features.html
   type: features
-  content: ''
+  content: prova di testo
   actions: []
   subtitle: ''
   symbol_display: []
