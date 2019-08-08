@@ -1,6 +1,5 @@
 +++
 date = "2019-08-05T22:00:00+00:00"
-draft = true
 excerpt = "estratto"
 img_path = ""
 layout = "page"
