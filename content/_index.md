@@ -8,8 +8,8 @@ sections:
   content: ''
   actions:
   - label: contact
-    url: ''
-    is_scrolly: false
+    url: https://marcellomaranzan.netlify.com/contact/
+    is_scrolly: true
     is_primary: false
   - label: works
     url: ''
