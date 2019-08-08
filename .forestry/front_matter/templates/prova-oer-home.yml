@@ -1,4 +1,11 @@
 ---
 label: prova oer home
 hide_body: true
-fields: []
+fields:
+- name: prova_color_picker
+  type: color
+  label: prova color picker
+  config:
+    required: false
+    color_format: RGB
+  default: rgb(155, 155, 155)
