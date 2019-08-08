@@ -20,12 +20,13 @@ sections:
   actions: []
   subtitle: ''
   symbol_display: []
-- template: mission
-  title: Amet ullamcorper
-  component: mission.html
-  type: mission
+- template: spotlight
+  title: Duis torquent
+  component: spotlight.html
+  type: spotlight
   content: ''
   actions: []
+  subtitle: ''
 layout: home
 prova_per_home_2: ''
 menu:
