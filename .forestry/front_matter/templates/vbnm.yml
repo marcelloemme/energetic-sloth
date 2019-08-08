@@ -1,0 +1,20 @@
+---
+label: vbnm
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: baseURL
+  label: baseURL
+- type: field_group
+  name: params
+  label: params
+  fields:
+  - type: text
+    name: none
+    label: none
+- type: list
+  name: disableKinds
+  label: disableKinds
