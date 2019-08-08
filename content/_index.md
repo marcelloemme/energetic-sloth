@@ -6,7 +6,11 @@ sections:
   component: intro.html
   type: intro
   content: ''
-  actions: []
+  actions:
+  - label: personal
+    url: ''
+    is_scrolly: false
+    is_primary: false
   img_path: "/images/pic01.jpg"
 - template: features
   title: Ipsum malesuada
