@@ -43,3 +43,5 @@ fields:
   default: page
   config:
     required: true
+pages:
+- content/posts/post-numero-1.md
