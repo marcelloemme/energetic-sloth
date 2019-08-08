@@ -25,7 +25,11 @@ sections:
   component: spotlight.html
   type: spotlight
   content: ''
-  actions: []
+  actions:
+  - label: label
+    url: www.gesu.com
+    is_scrolly: false
+    is_primary: false
   subtitle: ''
 layout: home
 prova_per_home_2: ''
