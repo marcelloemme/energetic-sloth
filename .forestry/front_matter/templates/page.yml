@@ -26,3 +26,5 @@ fields:
   default: page
   config:
     required: true
+pages:
+- content/contact.md
