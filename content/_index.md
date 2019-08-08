@@ -20,12 +20,6 @@ sections:
   actions: []
   subtitle: ''
   symbol_display: []
-- template: mission
-  title: Amet ullamcorper
-  component: mission.html
-  type: mission
-  content: ''
-  actions: []
 layout: home
 prova_per_home_2: ''
 menu:
