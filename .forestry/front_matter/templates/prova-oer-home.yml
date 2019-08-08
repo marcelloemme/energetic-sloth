@@ -9,3 +9,12 @@ fields:
     required: false
     color_format: RGB
   default: rgb(155, 155, 155)
+- name: testtooos_mmmm
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: testtooos mmmm
