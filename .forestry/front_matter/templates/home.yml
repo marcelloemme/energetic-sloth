@@ -27,10 +27,5 @@ fields:
   default: home
   config:
     required: true
-- name: prova_per_home_2
-  type: text
-  config:
-    required: false
-  label: prova per home 2
 pages:
 - content/_index.md
