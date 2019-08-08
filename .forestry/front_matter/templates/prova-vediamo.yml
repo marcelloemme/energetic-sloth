@@ -1,4 +1,44 @@
 ---
 label: prova vediamo
 hide_body: true
-fields: []
+fields:
+- name: section_content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Section Content
+- name: section_action_buttons
+  type: field_group_list
+  fields:
+  - name: action
+    type: include
+    config: {}
+    template: action
+    label: Action
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Section Action Buttons
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+  default: prova titolo
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Image
+  default: "/images/pic01.jpg"
+- name: component
+  type: text
+  config:
+    required: false
+  label: Component
+  hidden: true
