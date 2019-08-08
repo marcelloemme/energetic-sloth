@@ -2,15 +2,11 @@
 title: Home
 sections:
 - template: intro
-  title: Reflex
+  title: marcello m
   component: intro.html
   type: intro
   content: ''
-  actions:
-  - label: clicca
-    url: http://www.google.it
-    is_scrolly: false
-    is_primary: false
+  actions: []
   img_path: "/images/pic01.jpg"
 - template: features
   title: Ipsum malesuada
