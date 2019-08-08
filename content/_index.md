@@ -16,6 +16,7 @@ sections:
   actions: []
   img_path: ''
 layout: home
+prova_per_home_2: vccc
 menu:
   main:
     weight: 1
