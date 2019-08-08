@@ -20,13 +20,6 @@ sections:
   actions: []
   subtitle: ''
   symbol_display: []
-- template: spotlight
-  title: Duis torquent
-  component: spotlight.html
-  type: spotlight
-  content: ''
-  actions: []
-  subtitle: ''
 - template: mission
   title: Amet ullamcorper
   component: mission.html
