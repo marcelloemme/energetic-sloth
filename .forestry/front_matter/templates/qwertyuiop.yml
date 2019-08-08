@@ -1,9 +1,0 @@
----
-label: qwertyuiop
-hide_body: false
-fields:
-- name: templeit
-  type: include
-  config: {}
-  template: intro
-  label: templeit
