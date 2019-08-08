@@ -7,4 +7,6 @@ title = "contact"
 weight = 2
 
 +++
+![](/images/pic02.jpg)
+
 tel mail ig
