@@ -7,7 +7,7 @@ sections:
   type: intro
   content: ''
   actions: []
-  img_path: ''
+  img_path: "/images/pic01.jpg"
 layout: home
 prova_per_home_2: ''
 menu:
